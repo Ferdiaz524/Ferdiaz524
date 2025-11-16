@@ -96,8 +96,8 @@ Soy estudiante de Ingeniería Informática, enfocado en el **desarrollo backend*
 <img src="https://img.shields.io/badge/Email%20Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email personal" />
 </a>
 
-<a href="mailto:00351519@uca.edu.sv" target="_blank">
-<img src="https://img.shields.io/badge/Email%20Institucional-005FF9?style=for-the-badge&logo=gmail&logoColor=white" alt="email institucional" />
+<a href="mailto:00351519@uca.edu.sv" target="_blank"> 
+<img src="https://img.shields.io/badge/Email%20Institucional-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="email institucional" /> 
 </a>
 
 <a href="https://www.linkedin.com/in/fernando-díaz-8b9a93201" target="_blank">
