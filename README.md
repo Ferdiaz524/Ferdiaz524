@@ -1,3 +1,10 @@
+<div align="center">
+  
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Ferdiaz524.repoName)
+[![GitHub followers](https://img.shields.io/github/followers/Ferdiaz524.svg?style=social&label=Follow)](https://github.com/Ferdiaz524?tab=followers)
+
+</div>
+
 <!-- Banner -->
 <h1 align="center">👋 ¡Hola! Soy <strong>Fernando Díaz</strong></h1>
 <h3 align="center">Desarrollador Backend | Seguridad | Servidores</h3>
@@ -10,31 +17,27 @@
 ---
 
 ## 🧑‍💻 Sobre mí
-Soy estudiante de Ingeniería Informática, motivado por aprender constantemente, fortalecer mis habilidades técnicas y asumir desafíos que impulsen mi crecimiento profesional.  
-Me interesa especialmente:
+Soy estudiante de Ingeniería Informática, enfocado en el **desarrollo backend** y el **funcionamiento interno de los sistemas**. Me motiva aprender, experimentar y construir soluciones eficientes, seguras y escalables.
+
+Áreas que más disfruto:
 
 - 🔒 Seguridad informática y buenas prácticas  
-- 🖥️ Arquitectura de software y diseño backend  
+- 🖥️ Arquitectura y diseño backend  
 - 🛠️ Servidores, infraestructura y despliegue  
-- ⚙️ Creación y mantenimiento de APIs  
+- ⚙️ Construcción y mantenimiento de APIs  
 
 ---
 
 ## 🛠️ Tecnologías y Herramientas
 
-### 🔹 Lenguajes de Programación
-<div align="left">
-
-| HTML | CSS | JavaScript | C++ | Java | Python *(aprendiendo)* |
-|------|------|------------|------|------|-------------------------|
-
-</div>
+### 🔹 Lenguajes
+HTML • CSS • JavaScript • C++ • Java • Python *(aprendiendo)*
 
 ### 🔹 Frameworks y Librerías
 - React.js  
 - Node.js / Express  
 
-### 🔹 Herramientas y Entornos
+### 🔹 Herramientas
 - VS Code  
 - Postman  
 
@@ -42,10 +45,26 @@ Me interesa especialmente:
 - Git  
 - GitHub  
 
+### 🔹 Otras Tecnologías
+- Docker  
+- Linux  
+- APIs REST  
+- Servidores y despliegue  
+
 ### 🔹 Áreas de Interés  
 - Backend  
 - Seguridad informática  
 - Servidores y DevOps  
+
+---
+
+## 🎓 Cursos y Certificaciones
+
+- **TOEFL ITP — Nivel C1 (2018)**  
+- **PowerPoint 2016 — Certificación (2018)**  
+- **Office Word 2013 — Certificación (2016)**  
+- **Office Excel 2016 — Certificación (2017)**  
+- **Power BI — Santander Open Academy (2023)**  
 
 ---
 
@@ -58,18 +77,26 @@ Me interesa especialmente:
 
 ---
 
-## 📬 Contacto
+## 🤝 Connect with me  
+<div align="center">
+<a href="https://github.com/Ferdiaz524" target="_blank">
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" />
+</a>
 
-<p align="left">
+<a href="mailto:fernandodiaz20008@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Email%20Personal-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email personal" />
+</a>
 
-- 🧑‍💻 <strong>GitHub Institucional:</strong>  
-  https://github.com/Ferdiaz524
+<a href="mailto:00351519@uca.edu.sv" target="_blank">
+<img src="https://img.shields.io/badge/Email%20Institucional-005FF9?style=for-the-badge&logo=gmail&logoColor=white" alt="email institucional" />
+</a>
 
-- 📧 <strong>Correo Personal:</strong>  
-  fernandodiaz20008@gmail.com  
+<a href="https://www.linkedin.com/in/fernando-díaz-8b9a93201" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
+</div>
 
-- 📧 <strong>Correo Institucional:</strong>  
-  00351519@uca.edu.sv  
+---
 
 ---
 
